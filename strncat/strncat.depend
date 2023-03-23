@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662678079 source:c:\users\ipekd\desktop\c lesson\strncat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1660859799 source:c:\users\ipekd\desktop\c\scanf\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1660861747 source:c:\c lesson\scanf\main.c
+	<stdio.h>
+	<stdlib.h>
+

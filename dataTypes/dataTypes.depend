@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1660844851 source:c:\users\ipekd\desktop\c\datatypes\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1660842069 source:c:\users\ipekd\desktop\c\datatypes\integers.c
+	<stdio.h>
+	<stdlib.h>
+

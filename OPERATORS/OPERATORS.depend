@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1661012365 source:c:\users\ipekd\desktop\c lesson\operators\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1661012394 source:c:\users\ipekd\desktop\c lesson\operators\arithmeticoperators.c
+	<stdio.h>
+	<stdlib.h>
+
+1661722708 source:c:\users\ipekd\desktop\c lesson\operators\assignmentoperators.c
+	<stdio.h>
+	<stdlib.h>
+
+1661722720 source:c:\users\ipekd\desktop\c lesson\operators\comparisonoperators.c
+	<stdio.h>
+	<stdlib.h>
+
+1661722727 source:c:\users\ipekd\desktop\c lesson\operators\logicaloperators.c
+	<stdio.h>
+	<stdlib.h>
+
